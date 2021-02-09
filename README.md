@@ -4,7 +4,7 @@
 |:---------:|:-------------:|:--------:|:-------:|:--------:|
 Filter Adblock Walk  |  |  | [Click][Thai Ads Filter Subscribe] | 
 Filter Annoyances Walk  |  |  | [Click][Thai Annoyance Filter Subscribe] | 
-Edit Web |  |  | [Click][Thai Annoyance Filter Subscribe] | 
+Edit Web |  |  |  | 
 
 
 [Thai Ads Filter Subscribe]: https://subscribe.adblockplus.org/?location=https://adblock-thai.github.io/thai-ads-filter/subscription.txt&amp;title=Filter%20Adblock%20Walk
