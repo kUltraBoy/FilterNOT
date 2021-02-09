@@ -5,9 +5,9 @@
 Thai Ads Filters <br />![ads filter size] |  | ![uBO][uBO] ![AG][AG] ![ADNU][ADNU] | [Click][Thai Ads Filter Subscribe] | [Link][Thai Ads Filter Direct]
 Thai Annoyance Filters <br /> ![annoy filter size] |  | ![uBO][uBO] ![AG][AG] ![ADNU][ADNU] | [Click][Thai Annoyance Filter Subscribe] | [Link][Thai Annoyance Filter Direct]
 
-[Thai Ads Filter Subscribe]: https://subscribe.adblockplus.org/?location=https://adblock-thai.github.io/thai-ads-filter/subscription.txt&amp;title=Thai%20Adblock%20List
+[Thai Ads Filter Subscribe]: https://subscribe.adblockplus.org/?location=https://adblock-thai.github.io/thai-ads-filter/subscription.txt&amp;title=Filter%20Adblock%20Walk
 [Thai Ads Filter Direct]: https://adblock-thai.github.io/thai-ads-filter/subscription.txt
-[Thai Annoyance Filter Subscribe]: https://subscribe.adblockplus.org/?location=https://adblock-thai.github.io/thai-ads-filter/annoyance.txt&amp;title=Thai%20Annoyances%20List
+[Thai Annoyance Filter Subscribe]: https://subscribe.adblockplus.org/?location=https://adblock-thai.github.io/thai-ads-filter/annoyance.txt&amp;title=Filter%20Annoyances%20Walk
 [Thai Annoyance Filter Direct]: https://adblock-thai.github.io/thai-ads-filter/annoyance.txt
 
 [ads filter size]: https://img.badgesize.io/adblock-thai/thai-ads-filter/gh-pages/subscription.txt?style=flat-round&label=size
