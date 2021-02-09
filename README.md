@@ -2,8 +2,8 @@
 
 | List | Description  | Suitable | Subscribe | Direct Link |
 |:---------:|:-------------:|:--------:|:-------:|:--------:|
-Thai Ads Filters  |  |  | [Click][Thai Ads Filter Subscribe] | 
-Thai Annoyance Filters  |  |  | [Click][Thai Annoyance Filter Subscribe] | 
+Filter Adblock Walk  |  |  | [Click][Thai Ads Filter Subscribe] | 
+Filter Annoyances Walk  |  |  | [Click][Thai Annoyance Filter Subscribe] | 
 Edit Web |  |  | [Click][Thai Annoyance Filter Subscribe] | 
 
 
