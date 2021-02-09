@@ -2,8 +2,8 @@
 
 | List | Description  | Suitable | Subscribe | Direct Link |
 |:---------:|:-------------:|:--------:|:-------:|:--------:|
-Thai Ads Filters <br />![ads filter size] |  | ![uBO][uBO] ![AG][AG] ![ADNU][ADNU] | [Click][Thai Ads Filter Subscribe] | [Link][Thai Ads Filter Direct]
-Thai Annoyance Filters <br /> ![annoy filter size] |  | ![uBO][uBO] ![AG][AG] ![ADNU][ADNU] | [Click][Thai Annoyance Filter Subscribe] | [Link][Thai Annoyance Filter Direct]
+Thai Ads Filters <br />![ads filter size] |  | ![uBO][uBO] ![AG][AG] ![ADNU][ADNU] | [Click][Thai Ads Filter Subscribe] | 
+Thai Annoyance Filters <br /> ![annoy filter size] |  | ![uBO][uBO] ![AG][AG] ![ADNU][ADNU] | [Click][Thai Annoyance Filter Subscribe] | 
 
 [Thai Ads Filter Subscribe]: https://subscribe.adblockplus.org/?location=https://adblock-thai.github.io/thai-ads-filter/subscription.txt&amp;title=Filter%20Adblock%20Walk
 [Thai Ads Filter Direct]: https://adblock-thai.github.io/thai-ads-filter/subscription.txt
