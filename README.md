@@ -2,8 +2,8 @@
 
 | List | Description  | Suitable | Subscribe | Direct Link |
 |:---------:|:-------------:|:--------:|:-------:|:--------:|
-Thai Ads Filters <br />![ads filter size] |  | ![uBO][uBO] ![AG][AG] ![ADNU][ADNU] | [Click][Thai Ads Filter Subscribe] | 
-Thai Annoyance Filters <br /> ![annoy filter size] |  | ![uBO][uBO] ![AG][AG] ![ADNU][ADNU] | [Click][Thai Annoyance Filter Subscribe] | 
+Thai Ads Filters  |  |  | [Click][Thai Ads Filter Subscribe] | 
+Thai Annoyance Filters  |  |  | [Click][Thai Annoyance Filter Subscribe] | 
 Edit Web |  |  | [Click][Thai Annoyance Filter Subscribe] | 
 
 
