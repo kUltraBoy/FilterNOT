@@ -1,0 +1,73 @@
+! 2021-04-28 https://www.doomovie-hd.com
+www.doomovie-hd.com##.left-side_floating_ad.side_floating_ad
+www.doomovie-hd.com##.right-side_floating_ad.side_floating_ad
+www.doomovie-hd.com##.topad_container
+
+! 2021-04-29 https://www.123-hd.com
+||www.123-hd.com/wp-content/uploads/2020/*.gif$image
+
+! 2021-04-30 https://www.123-hd.com
+||www.123-hd.com/wp-content/uploads/*.gif$image
+||www.123-hd.com/wp-content/uploads/2021/04/*.gif$image
+
+||moviefree365.com$media,redirect=noop-1s.mp4,third-party
+||sv1.cdend.com$media,redirect=noop-1s.mp4,third-party
+||lst-video01.sgp1.cdn.digitaloceanspaces.com$media,redirect=noop-1s.mp4,third-party
+||cdend.com//c2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1l/$media,redirect=noop-1s.mp4,third-party
+||cdend.com/c2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1l/$media,redirect=noop-1s.mp4,third-party
+||googles.video/c2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1l/$media,redirect=noop-1s.mp4,third-party
+||cdend.com/c2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1l/$media,redirect=noop-1s.mp4,third-party
+||cdend.com//c2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1l/Lcd168.mp4/$media,redirect=noop-1s.mp4,third-party
+
+! 2021-05-19 https://newseries-hd.com
+||newseries-hd.com/wp-content/uploads/*.gif$image
+||newseries-hd.com/wp-content/uploads/*.gif$image
+||newseries-hd.com/wp-content/uploads/*.gif$image
+
+! 2021-06-12 https://www.doofree88.com
+www.doofree88.com##div.clearfix.page_margin_top.page_layout:nth-of-type(1)
+
+! 2021-06-13 https://www.dooseries.tv
+www.dooseries.tv##div.item.px-1.col-12:nth-of-type(2)
+www.dooseries.tv##div.item.px-1.col-12:nth-of-type(1)
+www.dooseries.tv##.slide-banner-l.ads.row
+www.dooseries.tv##.slide-banner-r.ads.row
+www.dooseries.tv##.col-lg-8.col-12 > .ads.row
+www.dooseries.tv##div.box:nth-of-type(6)
+www.dooseries.tv##div.box:nth-of-type(3)
+www.dooseries.tv##div.box:nth-of-type(5)
+www.dooseries.tv##div.box:nth-of-type(8)
+
+! 2021-06-24 https://www.siambit.me
+www.siambit.me##[href="https://lnw.lol/1slot"]
+
+! 2021-06-26 https://www.siambit.me
+www.siambit.me##[href="https://lnw.lol/SB"]
+
+! 2021-07-08 https://www.037hdmovie.com
+www.037hdmovie.com##div.filmborder:nth-of-type(3)
+www.037hdmovie.com##div.filmborder:nth-of-type(4)
+www.037hdmovie.com##div.filmborder:nth-of-type(5)
+www.037hdmovie.com##div.filmborder:nth-of-type(6)
+www.037hdmovie.com##div.filmborder:nth-of-type(7)
+www.037hdmovie.com##div.filmborder:nth-of-type(8)
+www.037hdmovie.com##div.filmborder:nth-of-type(9)
+www.037hdmovie.com##div.filmborder:nth-of-type(10)
+www.037hdmovie.com##div.filmborder:nth-of-type(11)
+www.037hdmovie.com##div.filmborder:nth-of-type(12)
+www.037hdmovie.com##div.filmborder:nth-of-type(13)
+www.037hdmovie.com##div.filmborder:nth-of-type(14)
+www.037hdmovie.com##div.filmborder:nth-of-type(15)
+www.037hdmovie.com##div.filmborder:nth-of-type(16)
+www.037hdmovie.com##div.filmborder:nth-of-type(17)
+www.037hdmovie.com##div.filmborder:nth-of-type(18)
+www.037hdmovie.com##div.filmborder:nth-of-type(19)
+www.037hdmovie.com##div.filmborder:nth-of-type(20)
+www.037hdmovie.com##div.filmborder:nth-of-type(21)
+www.037hdmovie.com##div.filmborder:nth-of-type(22)
+www.037hdmovie.com##div.filmborder:nth-of-type(24)
+www.037hdmovie.com##div.filmborder:nth-of-type(25)
+www.037hdmovie.com##div.filmborder:nth-of-type(26)
+www.037hdmovie.com##div.filmborder:nth-of-type(27)
+www.037hdmovie.com##div.filmborder:nth-of-type(28)
+
