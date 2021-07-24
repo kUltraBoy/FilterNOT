@@ -18,7 +18,7 @@ www.doomovie-hd.com##.topad_container
 ||googles.video/c2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1l/$media,redirect=noop-1s.mp4,third-party
 ||cdend.com/c2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1l/$media,redirect=noop-1s.mp4,third-party
 ||cdend.com//c2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1l/Lcd168.mp4/$media,redirect=noop-1s.mp4,third-party
-||freemoviedd.sgp1.cdn.digitaloceanspaces.com$media,redirect=noop-1s.mp4,third-party
+||freemoviedd.sgp1.cdn.digitaloceanspaces.com^$media,redirect=noop-1s.mp4,third-party
 
 
 ! 2021-05-19 https://newseries-hd.com
