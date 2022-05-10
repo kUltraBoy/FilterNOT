@@ -22,6 +22,8 @@ www.doomovie-hd.com##.topad_container
 ||cdend.com//c2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1l/Lcd168.mp4/$media,redirect=noop-1s.mp4,third-party
 ||freemoviedd.sgp1.cdn.digitaloceanspaces.com^$media,redirect=noop-1s.mp4,third-party
 
+||anccplayer.cyou/source/*$media,redirect=noop-1s.mp4,third-party
+https://sv0.anccplayer.cyou/source/*.mp4
 
 ! 2021-05-19 https://newseries-hd.com
 ||newseries-hd.com/wp-content/uploads/*.gif$image
@@ -69,13 +71,249 @@ www.037hdmovie.com##div.filmborder:nth-of-type(19)
 www.037hdmovie.com##div.filmborder:nth-of-type(20)
 www.037hdmovie.com##div.filmborder:nth-of-type(21)
 www.037hdmovie.com##div.filmborder:nth-of-type(22)
+www.037hdmovie.com##div.filmborder:nth-of-type(23)
 www.037hdmovie.com##div.filmborder:nth-of-type(24)
 www.037hdmovie.com##div.filmborder:nth-of-type(25)
 www.037hdmovie.com##div.filmborder:nth-of-type(26)
 www.037hdmovie.com##div.filmborder:nth-of-type(27)
+www.037hdmovie.com##div.filmborder:nth-of-type(28)
+www.037hdmovie.com##div.filmborder:nth-of-type(29)
+www.037hdmovie.com##div.filmborder:nth-of-type(30)
+www.037hdmovie.com##div.filmborder:nth-of-type(31)
 
 ! 2021-10-11 https://www.alpha-hen.com
 www.alpha-hen.com##div#header-widget-area.widget-area.chw-widget-area:nth-of-type(2)
 www.alpha-hen.com##div#header-widget-area.widget-area.chw-widget-area:nth-of-type(4)
 www.alpha-hen.com##div#header-widget-area.widget-area.chw-widget-area:nth-of-type(5)
+
+! 2021-11-26 https://www.siambit.me
+##[href="https://www.ptgame24.com/"]
+##[href="https://www.1slot.co"]
+##[href="https://www.kingkongxo.com/"]
+##[href="https://www.55xo.co"]
+
+! 2021-12-18 https://www.dujav.com
+||i.imgur.com/*.gif$image
+
+! 2021-12-26 https://www.movie678.com
+www.movie678.com##[href="https://www.movie678.com/ads/redirect/50"]
+www.movie678.com##[href="https://www.movie678.com/ads/redirect/149"]
+www.movie678.com##[href="https://mahagame88.co"]
+||www.movie678.com/images/banners/*.gif$image
+||www.movie678.com/logo/*.gif$image
+
+www.movie678.com###show_ads_c1
+www.movie678.com###aaa-banner-left
+www.movie678.com###ccc-banner-left
+www.movie678.com##.notice
+www.movie678.com##div.box:nth-of-type(2)
+www.movie678.com##div.box:nth-of-type(3)
+www.movie678.com##div.box:nth-of-type(4)
+www.movie678.com##div.box:nth-of-type(5)
+www.movie678.com##div.box:nth-of-type(6)
+www.movie678.com##div.box:nth-of-type(7)
+www.movie678.com##div.box:nth-of-type(8)
+www.movie678.com##div.box:nth-of-type(9)
+www.movie678.com##div.box:nth-of-type(10)
+www.movie678.com##div.box:nth-of-type(11)
+www.movie678.com##div.box:nth-of-type(12)
+www.movie678.com##div.box:nth-of-type(13)
+www.movie678.com##div.box:nth-of-type(14)
+www.movie678.com##div.box:nth-of-type(15)
+www.movie678.com##div.box:nth-of-type(16)
+www.movie678.com##div.box:nth-of-type(17)
+www.movie678.com##div.box:nth-of-type(18)
+www.movie678.com##div.box:nth-of-type(19)
+www.movie678.com##div.box:nth-of-type(20)
+www.movie678.com##div.box:nth-of-type(21)
+www.movie678.com##div.box:nth-of-type(22)
+www.movie678.com##div.box:nth-of-type(23)
+www.movie678.com##div.box:nth-of-type(24)
+www.movie678.com##div.box:nth-of-type(25)
+www.movie678.com##div.box:nth-of-type(26)
+www.movie678.com##div.box:nth-of-type(27)
+www.movie678.com##div.box:nth-of-type(28)
+!www.movie678.com##div.box:nth-of-type(29)
+www.movie678.com##div.box:nth-of-type(31)
+www.movie678.com##div.box:nth-of-type(32)
+www.movie678.com##div.box:nth-of-type(33)
+www.movie678.com##div.box:nth-of-type(34)
+www.movie678.com##div.box:nth-of-type(35)
+www.movie678.com##div.box:nth-of-type(36)
+www.movie678.com##div.box:nth-of-type(37)
+www.movie678.com##div.box:nth-of-type(38)
+www.movie678.com##div.box:nth-of-type(39)
+www.movie678.com##div.box:nth-of-type(40)
+
+! 2021-12-26 https://moviehdfree.net
+moviehdfree.net##.ad-float
+moviehdfree.net##aside.ad:nth-of-type(1)
+##[href="https://mahagame88.co"]
+##[href="https://ufac4.com"]
+##[href="https://lotto432.com"]
+##[href="https://ufa1919.com"]
+##.contentmovie > [href="https://ufazeed.com"]
+##[href="https://1688slot.co"]
+##[href^="https://slot0077.com"]
+##[href="https://slot1911.com"]
+##[href="https://1688sagame.com"]
+##[href="https://1688sexygame.co"]
+##[href="https://sagame6699.com"]
+##[href="https://sexygame666.com"]
+##[href="https://vip168sa.com"]
+##[href="https://ssgame666.com"]
+##[href="https://panama888.co"]
+##[href="https://panama888.com"]
+##[href="https://ufa1919.com/"]
+##[href="https://ssgame56.co"]
+##[href="https://london168.com"]
+##[href="https://bit.ly/3d6TKlS"]
+##[href="https://bit.ly/sexy-game-pg-joker69"]
+##[href="https://allslot8.com/"]
+##[href="http://www.ole7480.com/"]
+##[href="https://bit.ly/3nZeCRk"]
+##[href="https://bit.ly/3yaPwn2"]
+##[href="https://bit.ly/2YEiSNu"]
+##[href="https://bit.ly/3eo1u3O"]
+##[href="https://ufa-thai.com/aff/uf89991m1112"]
+moviehdfree.net##.side-menu > .adhl
+moviehdfree.net##.adbr
+##[href="https://789step.com/"]
+##[href="ลิ้งค์สมัคร:https://ufa-thai.com/aff/uforchb1113"]
+##[href="https://ism77.ismautobet.com/ism77/ismgaming/"]
+##[href="https://sptslot.com/"]
+##[href="https://ambxbet.com/"]
+||moviehdfree.net/wp-content/uploads/2021/08/%E0%B9%81%E0%B8%9A%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%AD%E0%B8%A3%E0%B9%8C-SLOT8899.gif$image
+##[href="https://bit.ly/3xPgOxs"]
+##[href="https://newyork888.com"]
+##[href="https://Newyork888.com"]
+##[href="https://bit.ly/3lKWVo8"]
+##[href="https://asia99th.com/"]
+##[href="https://pgslot-168.net/"]
+##[href="https://lsm99good.com/"]
+moviehdfree.net##.content-col2 > .adt
+moviehdfree.net##.adb
+moviehdfree.net##div.adhl:nth-of-type(3)
+moviehdfree.net##div.adhl:nth-of-type(4)
+moviehdfree.net##div.adhl:nth-of-type(5)
+moviehdfree.net##div.adhl:nth-of-type(6)
+###attachment_48160 [href="https://line.me/ti/p/~@win666"]
+
+! 2021-12-26 https://movieeiei.com
+movieeiei.com##.filmborder > div
+movieeiei.com##div.banner-fix > div
+##[href="https://bit.ly/3EAlJqx"]
+##[href="https://london168.com"]
+##[href="https://bit.ly/3EfKozB"]
+##[href="https://line.me/R/ti/p/@huayaun2"]
+movieeiei.com##.popup.adb.banner-fix-player
+
+! 2021-12-26 https://rtimovie.com
+rtimovie.com##.filmborder > div
+##[href="https://hydra888.com"]
+##[href="https://kingdom66.com"]
+##[href="https://bit.ly/30eNK8a"]
+##[href="https://bit.ly/30fM2D7"]
+##[href="https://bit.ly/3qtgF34"]
+##[href="https://bit.ly/3EFO26P"]
+##[href="https://bit.ly/3xT837k"]
+##[href="https://bit.ly/3IrVNzC"]
+##[href="https://mgmwin99.co/"]
+##[href="https://www.jack-lotto.com/#/"]
+##[href="https://bit.ly/pgjoker69-bonus"]
+##[href="https://baccarat888.com/"]
+rtimovie.com##.topad_mid a[href="https://rtimovie.com/contact/"]
+rtimovie.com##td.topad_side > a[href="https://rtimovie.com/contact/"]
+##[href="https://bit.ly/3oB77RS"]
+rtimovie.com##.popup.adb.banner-fix-player > [href]
+rtimovie.com##.popup.adb.banner-fix-player
+
+! 2021-12-26 https://www.i-moviehd.com
+##[href="https://hotgraph88.com"]
+##[href="https://ufazeed.com"]
+www.i-moviehd.com###banner-left
+##[href="https://ufac4.com/"]
+
+! 2021-12-26 https://fwiptv.tv
+||fwiptv.tv/images/banners/*.gif$image
+
+! 2021-12-28 https://moviehdfree.net
+||moviehdfree.net/wp-content/uploads/2021/*.gif$image
+
+! 2021-12-28 https://movieeiei.com
+||movieeiei.com/wp-content/uploads/*.gif$image
+||19-movie.com/wp-content/uploads/*.gif$image
+
+! 2021-12-28 https://rtimovie.com
+||rtimovie.com/wp-content/uploads/*.gif$image
+||www.img.in.th/images/*.gif$image
+rtimovie.com##.carausel-sliderWidget.col-xs-12 > [href]
+rtimovie.com##[href="https://bit.ly/30eNK8a"]
+rtimovie.com##[href="https://bit.ly/30fM2D7"]
+rtimovie.com##[href="https://bit.ly/3qtgF34"]
+rtimovie.com##[href="https://bit.ly/3EFO26P"]
+rtimovie.com##[href="https://bit.ly/3HgeTr7"]
+rtimovie.com##[href="https://bit.ly/3qlQcmh"]
+rtimovie.com##[href="https://mgmwin99.co/"]
+rtimovie.com##[href="https://baccarat888.com/"]
+rtimovie.com##[href="https://bit.ly/3oB77RS"]
+rtimovie.com##[href="https://bit.ly/3Jnfglg"]
+
+! 2021-12-28 https://www.i-moviehd.com
+www.i-moviehd.com###ads_fox_bottom
+www.i-moviehd.com###banner_top
+www.i-moviehd.com###banner_mid
+www.i-moviehd.com###banner_low
+
+! 2022-01-25 https://www.siambit.me
+www.siambit.me##[href="https://www.1slot.co"]
+www.siambit.me##[href="https://www.kingkongxo.com/"]
+www.siambit.me##[href="https://www.55xo.co"]
+www.siambit.me##[href="https://www.ptgame24.com/"]
+
+! 2022-02-11 https://www.siambit.me
+www.siambit.me##.outer [href="https://www.55amb.com"]
+
+! 2022-02-11 https://www.facebook.com
+www.facebook.com##.cxgpxx05 > div > .discj3wi.d2edcug0.pfnyh3mw.cbu4d94t.j83agx80.rq0escxv.du4w35lb.l9j0dhe7
+
+! 2022-02-18 https://www.facebook.com
+www.facebook.com##.mio9le5o.pmk7jnqg.g2fypklz.gqgwhnc0
+
+! 2022-03-16 https://www.livestream88.com
+www.livestream88.com##.group-ads-fixed
+
+! 2022-03-16 https://we-play.live
+||we-play.live/images/*.gif$image
+
+! 2022-03-27 https://moveetv.com
+moveetv.com###bottom-banner-side3
+moveetv.com###bottom-banner-side4
+||www.moveetv.com/images/banners/*.gif$image
+||moveetv.com/images/banners/*.gif$image
+
+! 2022-03-30 https://www.kserietv.com
+||nsv1.serieshot.co/banner/*.gif$image
+www.kserietv.com###ads_fox_bottom
+
+! 2022-03-30 https://subserieshd.com
+||subserieshd.com/banner/*.gif$image
+subserieshd.com###bt-ads
+||subserieshd.com/banner/*$image
+
+! 2022-04-01 https://www.chinese-series.org
+||www.chinese-series.org/wp-content/uploads/2022/*.gif$image
+www.chinese-series.org###widget_ads1
+
+! 2022-04-02 https://neko-serieshd.com
+||1.bp.blogspot.com/*.gif$image
+||enjoy-series.co/ads/*.gif$image
+neko-serieshd.com##.inzad_player
+
+! 2022-04-02 https://play-serieshd.co
+play-serieshd.co##.inzad_player
+
+! 2022-05-10 https://we-play.live
+we-play.live###widget_ads2
+we-play.live###widget_ads1
 
