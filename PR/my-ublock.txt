@@ -317,3 +317,6 @@ play-serieshd.co##.inzad_player
 we-play.live###widget_ads2
 we-play.live###widget_ads1
 
+! 2022-08-14 https://www.nung2hdd.com
+||www.nung2hdd.com/wp-content/uploads/*.gif$image
+
