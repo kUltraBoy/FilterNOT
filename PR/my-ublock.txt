@@ -50,36 +50,6 @@ www.siambit.me##[href="https://lnw.lol/1slot"]
 ! 2021-06-26 https://www.siambit.me
 www.siambit.me##[href="https://lnw.lol/SB"]
 
-! 2021-07-08 https://www.037hdmovie.com
-!www.037hdmovie.com##div.filmborder:nth-of-type(3)
-www.037hdmovie.com##div.filmborder:nth-of-type(4)
-www.037hdmovie.com##div.filmborder:nth-of-type(5)
-www.037hdmovie.com##div.filmborder:nth-of-type(6)
-www.037hdmovie.com##div.filmborder:nth-of-type(7)
-www.037hdmovie.com##div.filmborder:nth-of-type(8)
-www.037hdmovie.com##div.filmborder:nth-of-type(9)
-www.037hdmovie.com##div.filmborder:nth-of-type(10)
-www.037hdmovie.com##div.filmborder:nth-of-type(11)
-www.037hdmovie.com##div.filmborder:nth-of-type(12)
-www.037hdmovie.com##div.filmborder:nth-of-type(13)
-www.037hdmovie.com##div.filmborder:nth-of-type(14)
-www.037hdmovie.com##div.filmborder:nth-of-type(15)
-www.037hdmovie.com##div.filmborder:nth-of-type(16)
-www.037hdmovie.com##div.filmborder:nth-of-type(17)
-www.037hdmovie.com##div.filmborder:nth-of-type(18)
-www.037hdmovie.com##div.filmborder:nth-of-type(19)
-www.037hdmovie.com##div.filmborder:nth-of-type(20)
-www.037hdmovie.com##div.filmborder:nth-of-type(21)
-www.037hdmovie.com##div.filmborder:nth-of-type(22)
-www.037hdmovie.com##div.filmborder:nth-of-type(23)
-www.037hdmovie.com##div.filmborder:nth-of-type(24)
-www.037hdmovie.com##div.filmborder:nth-of-type(25)
-www.037hdmovie.com##div.filmborder:nth-of-type(26)
-www.037hdmovie.com##div.filmborder:nth-of-type(27)
-www.037hdmovie.com##div.filmborder:nth-of-type(28)
-www.037hdmovie.com##div.filmborder:nth-of-type(29)
-www.037hdmovie.com##div.filmborder:nth-of-type(30)
-www.037hdmovie.com##div.filmborder:nth-of-type(31)
 
 ! 2021-10-11 https://www.alpha-hen.com
 www.alpha-hen.com##div#header-widget-area.widget-area.chw-widget-area:nth-of-type(2)
