@@ -51,7 +51,7 @@ www.siambit.me##[href="https://lnw.lol/1slot"]
 www.siambit.me##[href="https://lnw.lol/SB"]
 
 ! 2021-07-08 https://www.037hdmovie.com
-www.037hdmovie.com##div.filmborder:nth-of-type(3)
+!www.037hdmovie.com##div.filmborder:nth-of-type(3)
 www.037hdmovie.com##div.filmborder:nth-of-type(4)
 www.037hdmovie.com##div.filmborder:nth-of-type(5)
 www.037hdmovie.com##div.filmborder:nth-of-type(6)
