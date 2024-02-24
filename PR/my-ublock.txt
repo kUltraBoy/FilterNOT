@@ -290,3 +290,15 @@ we-play.live###widget_ads1
 ! 2022-08-14 https://www.nung2hdd.com
 ||www.nung2hdd.com/wp-content/uploads/*.gif$image
 
+! 2024-02-24 https://dooball66s.com
+||playerembed-lb.blackboxsys.net/images/banners/*.gif$image
+||playerembed-lb.blackboxsys.net$media,redirect=noop-1s.mp4,third-party
+||playerembed-lb.blackboxsys.net/video/ufazeed_2023a_720.mp4$media,redirect=noop-1s.mp4,third-party
+||playerembed-lb.blackboxsys.net/video/ufanance_2023a_720.mp4$media,redirect=noop-1s.mp4,third-party
+||playerembed-lb.blackboxsys.net/video/lalikabet168.mp4$media,redirect=noop-1s.mp4,third-party
+||blackboxsys.net/video/ufazeed_2023a_720.mp4$media,redirect=noop-1s.mp4,third-party
+||blackboxsys.net/video/ufanance_2023a_720.mp4$media,redirect=noop-1s.mp4,third-party
+||blackboxsys.net/video/lalikabet168.mp4$media,redirect=noop-1s.mp4,third-party
+||blackboxsys.net/*.mp4$media,redirect=noop-1s.mp4
+||playerembed-lb.blackboxsys.net/*/*.mp4$media,redirect=noop-1s.mp4,third-party
+||playerembed-lb.blackboxsys.net/video/*.mp4$media,redirect=noop-1s.mp4,third-party
